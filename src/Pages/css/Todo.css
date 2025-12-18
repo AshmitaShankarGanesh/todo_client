@@ -1,0 +1,22 @@
+.todolist {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content : center;
+    align-items: center;
+}
+
+.button{
+    width:200px;
+}
+
+.box{
+    display:flex;
+    justify-content: center;
+    gap:10px;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+}
